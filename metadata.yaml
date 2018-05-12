@@ -1,0 +1,30 @@
+_repo: '-----_43010'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yao, Yuanzhi
+    aliases:
+    - 姚元之
+    - Yao, Yüan-chih
+    - Yao, Yuan-chih
+    birthdate: 1773
+    deathdate: 1852
+    gutenberg_agent_id: '41986'
+    url: http://www.gutenberg.org/2009/agents/41986
+description: ''
+gutenberg_issued: '2013-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43010'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- History -- Qing dynasty, 1644-1912 -- Anecdotes'
+title: 竹葉亭雜記
+url: http://www.gutenberg.org/ebooks/43010
